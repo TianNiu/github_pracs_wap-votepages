@@ -8,3 +8,4 @@
 * page1.html:年度评选。
 * page2.html:优秀人物投票区。
 * page3.html:百年面道。
+* page4.html:
