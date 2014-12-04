@@ -1,4 +1,4 @@
-﻿﻿#wap-votepages-v1.1
+#wap-votepages-v1.1
 
 ##简述
 手机页面-投票
